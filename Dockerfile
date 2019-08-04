@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/node-exporter:v0.16.0
+FROM quay.io/v2/prometheus/alertmanager/manifests/v0.15.2
