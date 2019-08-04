@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/k8szk:V3
+FROM gcr.io/google_samples/k8szk:v3
