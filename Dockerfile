@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/k8szk:v3
+FROM quay.io/prometheus/node-exporter:v0.16.0
