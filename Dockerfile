@@ -1,1 +1,1 @@
-FROM quay.io/coreos/configmap-reload:v0.0.1
+FROM gcr.io/kubernetes-helm/tiller:v2.14.0
